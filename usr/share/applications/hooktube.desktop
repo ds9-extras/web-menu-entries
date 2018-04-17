@@ -1,5 +1,5 @@
 [Desktop Entry]
-Comment=
+Comment=View YouTube videos without giving them views
 Exec=xdg-open https://www.hooktube.com
 Icon=applications-internet
 Name=Hooktube
