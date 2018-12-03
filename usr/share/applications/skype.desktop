@@ -1,7 +1,7 @@
 [Desktop Entry]
 Comment=Skype Internet Telephony
 Exec=firefox -new-window https://web.skype.com/
-Icon=/usr/share/pixmaps/skypeforlinux.png
+Icon=/usr/share/pixmaps/skype-web.png
 Name=Skype
 NoDisplay=false
 StartupNotify=true
