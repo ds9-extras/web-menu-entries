@@ -2,7 +2,7 @@
 Comment=Skype Internet Telephony
 Exec=firefox -new-window https://web.skype.com/
 Icon=/usr/share/pixmaps/skype-web.png
-Name=Skype
+Name=Skype-Web
 StartupNotify=true
 Terminal=false
 Type=Application
