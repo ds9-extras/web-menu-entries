@@ -1,0 +1,9 @@
+[Desktop Entry]
+Comment=Free and OpenSource Software and Content
+Exec=firefox -new-window https://www.opendesktop.org/
+Icon=/usr/share/pixmaps/opendesktop.png
+Name=Opendesktop.org
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Web;
