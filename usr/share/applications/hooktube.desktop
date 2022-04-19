@@ -1,9 +1,0 @@
-[Desktop Entry]
-Comment=View YouTube videos without giving them views
-Exec=firefox -new-window https://www.hooktube.com
-Icon=/usr/share/pixmaps/hooktube.png
-Name=Hooktube
-StartupNotify=true
-Terminal=false
-Type=Application
-Categories=Web;
